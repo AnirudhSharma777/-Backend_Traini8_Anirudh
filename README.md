@@ -34,8 +34,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/training-center-api.git
-cd training-center-api
+git clone https://github.com/AnirudhSharma777/-Backend_Traini8_Anirudh.git
+cd Backend_Traini_Anirudh
 ```
 
 ### Configure Database
@@ -120,5 +120,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Anirudh - [GitHub]()
+Anirudh - [GitHub](https://github.com/AnirudhSharma777)
 
